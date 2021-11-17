@@ -1,0 +1,146 @@
+.tab-device {
+  height: 907px;
+  width: 643px;
+  border: 25px solid #000;
+}
+
+.tab-fb-search-bar {
+  height: 5vh;
+  width: 98%;
+  background-color: #bfc4cb;
+}
+
+.tab-fb-cover-image-container {
+  width: 100%;
+}
+
+.tab-fb-cover-image {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.tab-fb-profile-image-container {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+}
+
+.tab-fb-profile-image {
+  height: 135px;
+  width: 135px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.tab-fb-posts-container {
+  height: 53.2%;
+  background-color: #d3d6db;
+}
+
+.tab-fb-post-image-container {
+  height: 70vh;
+  width: 75%;
+  box-shadow: 0 0 10px -6px #505050;
+}
+
+.tab-fb-post-uploader-profile-image {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #bfc4cb;
+}
+
+.tab-fb-post-image-parent {
+  height: 80%;
+  min-height: 20%;
+  max-height: 80%;
+  width: 85%;
+}
+
+.tab-fb-post-image {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.tab-twitter-vertical-nav-bar {
+  height: 907px;
+  width: 13%;
+  border-right: 1px solid #ccc;
+}
+
+.tab-twitter-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.new-tweet {
+  background-color: #155dfa;
+  color: #fff;
+}
+
+.tab-twitter-content-container {
+  width: 100%;
+}
+
+.tab-twitter-top-bar {
+  height: 5%;
+}
+
+.tab-twitter-content {
+  height: 95%;
+}
+
+.tab-twitter-cover-image-container {
+  height: 205px;
+  max-height: 20%;
+  width: 90%;
+}
+
+.tab-twitter-cover-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.tab-twitter-profile-image-container {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+}
+
+.tab-twitter-profile-image {
+  height: 115px;
+  width: 115px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.tab-twitter-edit-profile-button {
+  border: 1px solid #bbb;
+}
+
+.tab-twitter-post-image-container {
+  height: 70vh;
+  border-right: 1px solid #8f8f8f;
+}
+
+.tab-twitter-post-uploader-profile-image {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #bfc4cb;
+}
+
+.tab-twitter-post-image-parent {
+  height: 80%;
+  min-height: 20%;
+  max-height: 80%;
+}
+
+.tab-twitter-post-image {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+}

@@ -1,0 +1,18 @@
+.parent-container {
+  height: 110vh;
+  background-color: #005068;
+}
+
+.drag-drop-title {
+  color: #005068;
+}
+
+.drag-drop-div {
+  width: 50vw;
+  min-height: 50vh;
+}
+
+.image-type-container {
+  width: 90%;
+  background-color: rgb(183, 75, 129);
+}

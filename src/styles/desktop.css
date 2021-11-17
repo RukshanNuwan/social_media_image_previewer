@@ -1,0 +1,174 @@
+.desktop-device {
+  height: 984px;
+  width: 95vw;
+  border: 25px solid #000;
+}
+
+.desktop-fb-search-bar {
+  height: 5vh;
+  width: 100%;
+  background-color: #bfc4cb;
+}
+
+.desktop-fb-cover-image-container {
+  width: 100%;
+}
+
+.desktop-fb-cover-image {
+  height: 250px;
+  width: 70%;
+  object-fit: cover;
+}
+
+.desktop-fb-profile-image-container {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+}
+
+.desktop-fb-profile-image {
+  height: 135px;
+  width: 135px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.desktop-fb-btn-edit-cover-photo {
+  border-width: 0;
+}
+
+.desktop-fb-btn-edit-cover-photo:hover {
+  cursor: not-allowed;
+}
+
+.desktop-fb-hr {
+  border: 1px solid #d8d8d8;
+}
+
+.desktop-fb-posts-container {
+  height: 55%;
+  width: 50%;
+}
+
+.desktop-fb-post-image-container {
+  height: 100%;
+  width: 100%;
+  background-color: #e5e5e5;
+  box-shadow: 0 0 10px -6px #505050;
+}
+
+.desktop-fb-post-uploader-profile-image {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #929496;
+}
+
+.desktop-fb-post-image-parent {
+  height: 80%;
+  min-height: 20%;
+  max-height: 80%;
+  width: 100%;
+}
+
+.desktop-fb-post-image {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.desktop-twitter-vertical-nav-bar {
+  height: 980px;
+  width: 25%;
+  border-right: 1px solid #ccc;
+}
+
+.desktop-twitter-icon-container {
+  padding: 12px 15% 0 15%;
+}
+
+.desktop-twitter-icon {
+  height: 50px;
+}
+
+.menu-item {
+  width: 40px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.bg-blue {
+  background-color: #155dfa;
+}
+
+.desktop-twitter-content-container {
+  width: 50%;
+}
+
+.desktop-twitter-top-bar {
+  height: 5%;
+}
+
+.desktop-twitter-tweet-count {
+  font-size: 14px;
+}
+
+.desktop-twitter-content {
+  height: 80%;
+  border-right: 1px solid #8f8f8f;
+}
+
+.desktop-twitter-cover-image-container {
+  height: 220px;
+  max-height: 20%;
+  width: 100%;
+}
+
+.desktop-twitter-cover-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.desktop-twitter-profile-image-container {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+}
+
+.desktop-twitter-profile-image {
+  height: 135px;
+  width: 135px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.desktop-twitter-edit-profile-button {
+  border: 1px solid #bbb;
+}
+
+.desktop-twitter-post-image-container {
+  height: 70vh;
+  margin: 0 20px 8px 0;
+}
+
+.desktop-twitter-post-uploader-profile-image {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-color: #bfc4cb;
+}
+
+.desktop-twitter-post-image-parent {
+  height: 80%;
+  min-height: 20%;
+  max-height: 80%;
+}
+
+.desktop-twitter-post-image {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+}

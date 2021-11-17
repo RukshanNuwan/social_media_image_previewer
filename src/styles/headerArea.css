@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Pacifico-Regular";
+  src: local("Pacifico-Regular"),
+    url("../assets/fonts/Pacifico-Regular.ttf") format("truetype");
+  font-weight: bold;
+}
+
+.header-container {
+  height: 18vh;
+  width: 100%;
+  background-color: #4285f4;
+}
+
+.heading {
+  font-family: Pacifico-Regular, serif;
+}

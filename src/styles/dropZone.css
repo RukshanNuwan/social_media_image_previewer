@@ -1,0 +1,23 @@
+.drop-zone {
+  height: 100%;
+  border: 1px dashed #a2a2a2;
+}
+
+.icon-container {
+  height: 50%;
+}
+
+.placeholder-text {
+  color: #bfc4cb;
+}
+
+.image-container {
+  height: 335px;
+  width: 100%;
+}
+
+.image {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}

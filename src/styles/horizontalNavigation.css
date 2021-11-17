@@ -1,0 +1,24 @@
+.horizontal-navigation-container {
+  height: 40vh;
+  background-color: #3ddc84;
+}
+
+.horizontal-navigation-title {
+  color: #005068;
+}
+
+.device-icon-container-parent {
+  width: 80%;
+}
+
+.device-icon-container {
+  width: 250px;
+  height: 150px;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 4px 2px -2px gray;
+}
+
+.device-icon-container:hover {
+  cursor: pointer;
+  background-color: #eaeaea;
+}

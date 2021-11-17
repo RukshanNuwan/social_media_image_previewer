@@ -1,0 +1,118 @@
+.mobile-device {
+  height: 554px;
+  width: 286px;
+  border: 5px solid #000;
+  border-top-width: 15px;
+  border-bottom-width: 15px;
+}
+
+.mobile-fb-search-bar {
+  height: 5vh;
+  width: 95%;
+  background-color: #bfc4cb;
+}
+
+.mobile-fb-cover-image-container {
+  width: 95%;
+}
+
+.mobile-fb-cover-image {
+  height: 150px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.mobile-fb-profile-image-container {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+}
+
+.mobile-fb-profile-image {
+  height: 135px;
+  width: 135px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.mobile-fb-hr {
+  border: 2px solid #d8d8d8;
+}
+
+.mobile-fb-post-image-container {
+  height: 30vh;
+}
+
+.mobile-fb-post-uploader-profile-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #bfc4cb;
+}
+
+.mobile-fb-post-image-parent {
+  height: 160px;
+  min-height: 110px;
+  max-height: 160px;
+}
+
+.mobile-fb-post-image {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.mobile-twitter-cover-image-container {
+  height: 17vh;
+}
+
+.mobile-twitter-cover-image {
+  height: 120px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.mobile-twitter-profile-image-container {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+
+.mobile-twitter-profile-image {
+  height: 75px;
+  width: 75px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.mobile-twitter-edit-profile-button {
+  border: 1px solid #bbb;
+}
+
+.mobile-twitter-hr {
+  border-top: 1px solid #d8d8d8;
+}
+
+.mobile-twitter-post-image-container {
+  height: 30vh;
+}
+
+.mobile-twitter-post-uploader-profile-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #bfc4cb;
+}
+
+.mobile-twitter-post-image-parent {
+  height: 160px;
+  min-height: 110px;
+  max-height: 160px;
+  width: 77%;
+}
+
+.mobile-twitter-post-image {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
